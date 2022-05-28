@@ -1,4 +1,9 @@
-![](https://komarev.com/ghpvc/?username=tami5&color=red)
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tami5&style=for-the-badge&color=red&label=Welcome+You+Are+Vistor+No" />
+</P>
+
+![](https://hit.yhype.me/github/profile?user_id=65782666)
 
 <!--
 **tami5/tami5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
