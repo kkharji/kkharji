@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=tami5&color=red)
 
 <!--
 **tami5/tami5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
