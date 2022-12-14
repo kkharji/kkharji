@@ -1,21 +1,15 @@
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=tami5&style=for-the-badge&color=red&label=Welcome+You+Are+Vistor+No" />
-</P>
-
 ![](https://hit.yhype.me/github/profile?user_id=65782666)
 
-<!--
-**tami5/tami5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tami5&style=flat&color=red&label=Vistors Count" />
+</P>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=rust,go,c,wasm,ts,prisma,html,figma,docker,cloudflare,firebase,neovim" alt="skills" />
+</p>
+
+
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkharji&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&layout=compact&custom_title=Stats" alt="kkharji's stats" /> | <img align="center" width="410" src="https://github-readme-stats.vercel.app/api/top-langs?hide=vim&username=kkharji&show_icons=true&locale=en&layout=compact&theme=buefy&custom_title=Speaking"  alt="kkharji's languages" /> |
+| ------------- | ------------- |
